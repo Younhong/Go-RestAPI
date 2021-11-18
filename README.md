@@ -15,4 +15,4 @@ go build
 ./GoRestAPI
 ```
 
-Source - Traversy Media
+Lecture - Traversy Media
